@@ -88,13 +88,23 @@ class DbHandler {
         $stmt->bind_param("ss", $email, $password);
 
         if($stmt->execute()){
-            $stmt->bind_result($email, $password);
+            $stmt->bind_result($user_id, $name, $lastname, $email);
             $stmt->store_result();
             if($stmt->num_rows>0){
+                $data = array();
+                while ($stmt->fetch()) {
+                    $tmp = array();
+                    $tmp["user_id"] = $user_id;
+                    $tmp["name"] = $name;
+                    $tmp["lastname"] = $lastname;
+                    $tmp["email"] = $email;
+                    array_push($data, $tmp);
+                }
                 $_meta = array();
                 $_meta["status"]="success";
                 $_meta["code"]="200";
                 $response["_meta"] = $_meta;
+                $response["data"] = $data;
                 $stmt->close();
                 return $response;
             }else{

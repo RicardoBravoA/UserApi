@@ -35,26 +35,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="db_handler.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="db_handler.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/include/db_handler.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1560">
-              <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
+            <state relative-caret-position="369">
+              <caret line="114" column="13" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
               <folding>
-                <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-                <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-                <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-                <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+                <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+                <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+                <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+                <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/v1/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="34" column="73" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="73" />
+            <state relative-caret-position="300">
+              <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -71,8 +71,8 @@
         <option value="$PROJECT_DIR$/db/ecommerce_db.sql" />
         <option value="$PROJECT_DIR$/include/config.php" />
         <option value="$PROJECT_DIR$/v1/index.php" />
-        <option value="$PROJECT_DIR$/include/db_handler.php" />
         <option value="$PROJECT_DIR$/db/user_db.sql" />
+        <option value="$PROJECT_DIR$/include/db_handler.php" />
       </list>
     </option>
   </component>
@@ -249,18 +249,18 @@
       <workItem from="1467937521989" duration="297000" />
       <workItem from="1468371820041" duration="2155000" />
       <workItem from="1468552325832" duration="1610000" />
-      <workItem from="1468777592046" duration="2280000" />
+      <workItem from="1468777592046" duration="2938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21851000" />
+    <option name="totallyTimeSpent" value="22509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23424879" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23424879" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -302,10 +302,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
           </folding>
         </state>
       </provider>
@@ -323,10 +323,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
           </folding>
         </state>
       </provider>
@@ -344,10 +344,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
           </folding>
         </state>
       </provider>
@@ -365,10 +365,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
           </folding>
         </state>
       </provider>
@@ -386,10 +386,10 @@
         <state relative-caret-position="9570">
           <caret line="638" column="0" selection-start-line="638" selection-start-column="0" selection-end-line="638" selection-end-column="0" />
           <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
           </folding>
         </state>
       </provider>
@@ -414,10 +414,10 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
           </folding>
         </state>
       </provider>
@@ -463,19 +463,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/include/db_handler.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1560">
-          <caret line="110" column="9" selection-start-line="110" selection-start-column="9" selection-end-line="110" selection-end-column="9" />
-          <folding>
-            <marker date="1468779782000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
-            <marker date="1468779782000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
-            <marker date="1468779782000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
-            <marker date="1468779782000" expanded="true" signature="3491:3556" ph="SELECT brand... brand" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/db/user_db.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="840">
@@ -486,9 +473,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/v1/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="34" column="73" selection-start-line="34" selection-start-column="65" selection-end-line="34" selection-end-column="73" />
+        <state relative-caret-position="300">
+          <caret line="57" column="27" selection-start-line="57" selection-start-column="27" selection-end-line="57" selection-end-column="27" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/db_handler.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="114" column="13" selection-start-line="114" selection-start-column="13" selection-end-line="114" selection-end-column="13" />
+          <folding>
+            <marker date="1469291157000" expanded="true" signature="333:380" ph="SELECT brand... brand" />
+            <marker date="1469291157000" expanded="true" signature="1726:1791" ph="INSERT INTO brand... " />
+            <marker date="1469291157000" expanded="true" signature="2429:2532" ph="SELECT user_... user" />
+            <marker date="1469291157000" expanded="true" signature="3908:3973" ph="SELECT brand... brand" />
+          </folding>
         </state>
       </provider>
     </entry>
